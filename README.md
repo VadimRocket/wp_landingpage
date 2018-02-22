@@ -1,3 +1,3 @@
-Landing Page для WordPress
+Landing Page Г¤Г«Гї WordPress
 
-![Иллюстрация к проекту](https://github.com/VadimRocket/wp_landingpage/raw/master/img/preview.jpg)
+(https://github.com/VadimRocket/wp_landingpage/raw/master/img/preview.jpg)
